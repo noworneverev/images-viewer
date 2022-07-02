@@ -25,16 +25,6 @@
   transition: border .24s ease-in-out;  
 }
 
-input[type="file" i] {
-  appearance: none;
-  background-color: initial;
-  cursor: default;
-  align-items: baseline;
-  color: inherit;
-  text-overflow: ellipsis;
-  white-space: pre;
-  text-align: start !important;
-  padding: initial;
-  border: initial;
-  overflow: hidden !important;
+.dropzone:active {
+  border-color: #418ec9;
 }
