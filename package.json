@@ -1,6 +1,6 @@
 {
-  "name": "react-images-viewer",
-  "homepage": "https://noworneverev.github.io/react-images-viewer",
+  "name": "images-viewer",
+  "homepage": "https://noworneverev.github.io/images-viewer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

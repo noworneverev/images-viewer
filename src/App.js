@@ -10,7 +10,7 @@ function App() {
           style={{ textAlign: 'right', marginBottom: 2, marginLeft: 'auto' }}
         >
           <a
-            href="https://github.com/noworneverev/react-images-viewer"
+            href="https://github.com/noworneverev/images-viewer"
             target="_blank"
           >
             <i
