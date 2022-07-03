@@ -1,7 +1,10 @@
 import Previews from './Previews';
 import './App.css';
+import usePageTracking from './usePageTracking';
 
 function App() {
+  usePageTracking();
+
   return (
     <>
       <div style={{ display: 'flex' }}>
