@@ -23,7 +23,7 @@
   <p align="center">
     A simple images viewer
     <br />
-    <a href="https://github.com/noworneverev/images-viewer"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/noworneverev/images-viewer/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://noworneverev.github.io/images-viewer">View Demo</a>
